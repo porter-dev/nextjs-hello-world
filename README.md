@@ -1,9 +1,9 @@
-# Next.js Hello World example on Porter
+# nextjs-hello-world
 
-Forked from [nextjs/examples/hello-world](https://github.com/zeit/next.js/tree/canary/examples/hello-world).
+This repository is deprecated and no longer maintained.
 
-This example shows the most basic idea behind Next. We have 2 pages: `pages/index.tsx` and `pages/about.tsx`. The former responds to `/` requests and the latter to `/about`. Using `next/link` you can add hyperlinks between them with universal routing capabilities. The `day` directory shows that you can have subdirectories.
+Use https://github.com/porter-dev/nextjs-getting-started instead.
 
-## Deploy to Porter
+Browse all Porter starters at https://github.com/porter-dev/starters
 
-To deploy this example to Porter, fork this repository and follow the [quickstart guide](https://docs.porter.run/language-specific-guides/nextjs).
+Get started with Porter: https://docs.porter.run/getting-started/quickstart
