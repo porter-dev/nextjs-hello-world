@@ -1,3 +1,0 @@
-apps:
-  web:
-    run: "npm run start"
